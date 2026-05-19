@@ -28,11 +28,11 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/volta-npo/portfolio-case-study-generator.git"
+    "url": "git+https://github.com/volta-npo/45-portfolio-case-study-generator.git"
   },
-  "homepage": "https://volta-npo.github.io/portfolio-case-study-generator/",
+  "homepage": "https://volta-npo.github.io/45-portfolio-case-study-generator/",
   "bugs": {
-    "url": "https://github.com/volta-npo/portfolio-case-study-generator/issues"
+    "url": "https://github.com/volta-npo/45-portfolio-case-study-generator/issues"
   },
   "author": "Volta Open Source <volta.npo@gmail.com>",
   "engines": {
