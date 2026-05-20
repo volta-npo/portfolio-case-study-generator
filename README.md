@@ -12,7 +12,7 @@
 
 **Student Agency Operations** · **No backend. No login. Client data stays local.**
 
-[Live app](https://volta-npo.github.io/portfolio-case-study-generator/) · [Report an issue](https://github.com/volta-npo/portfolio-case-study-generator/issues) · [Volta](https://voltanpo.org)
+[Live app](https://volta-npo.github.io/45-portfolio-case-study-generator/) · [Report an issue](https://github.com/volta-npo/45-portfolio-case-study-generator/issues) · [Volta](https://voltanpo.org)
 
 </div>
 
@@ -182,7 +182,7 @@ This repo is designed to be usable as a real OSS product, not just a static demo
 ## 🛠️ Quick start
 
 ```bash
-git clone https://github.com/volta-npo/portfolio-case-study-generator.git
+git clone https://github.com/volta-npo/45-portfolio-case-study-generator.git
 cd 45-portfolio-case-study-generator
 npm install
 npm test
